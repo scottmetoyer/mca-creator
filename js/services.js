@@ -1,1 +1,1 @@
-angular.module('mca.services',[]);
+angular.module('mca.services', []);

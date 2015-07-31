@@ -1,4 +1,4 @@
-angular.module('mca', ['mca.controllers', 'mca.directives'])
+angular.module('mca', ['mca.controllers', 'mca.directives', 'mca.services'])
 
 .run(function() {
   /*
