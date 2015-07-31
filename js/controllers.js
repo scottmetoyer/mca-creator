@@ -1,5 +1,6 @@
 angular.module('mca.controllers', ['mca.services'])
 
-.controller('AppCtrl', function($scope) {
-  var app = this;
+.controller('GameCtrl', function($scope) {
+  var game = this;
+  $scope.currentPage = 'intro';
 });
