@@ -8,5 +8,5 @@ angular.module('mca.controllers', [])
 
   $scope.goto = function(page) {
     $scope.currentPage = page;
-  }
+  };
 });
