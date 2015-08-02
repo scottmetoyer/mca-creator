@@ -1,4 +1,7 @@
-body {}
+body {
+  background-color: #000;
+  color: #fff;
+}
 
 #controls {
   text-align: right;
